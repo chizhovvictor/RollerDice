@@ -1,5 +1,7 @@
 # RollerDice
 
+<img src="https://github.com/chizhovvictor/RollerDice_flutter/blob/main/images/assets/readme.jpg" />
+
 A Flutter project.
 
 ## Getting Started
