@@ -1,6 +1,6 @@
 # RollerDice
 
-<img src="https://github.com/chizhovvictor/RollerDice_flutter/blob/main/images/assets/readme.jpg" />
+<img src="https://github.com/chizhovvictor/RollerDice_flutter/blob/main/assets/images/readme.jpg" />
 
 A Flutter project.
 
